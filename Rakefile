@@ -12,7 +12,7 @@ STYLE_FILE = "style.css"
 PAGE_LIST_FILE = "page_list.md"
 
 # キャッシュを削除
-sh "rm e-Stat-memo-ReView.epub *re catalog.yml"
+# sh "rm *.epub *.re"
 
 # = reviewのファイル出力処理
 # == Parameters:

@@ -1,0 +1,7 @@
+/nbproject/
+*.re
+*.epub
+*.pdf
+catalog.yml
+.DS_Store
+.idea
